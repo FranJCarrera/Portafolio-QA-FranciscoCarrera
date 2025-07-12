@@ -1,4 +1,4 @@
-# Proyecto 1 – Pruebas de regresión en app Urban Routes
+# Sprint 1 – Pruebas de regresión en app Urban Routes
 
 Este proyecto se desarrolló como parte del primer sprint del bootcamp de QA Engineer en Tripleten. Urban Routes es una aplicación ficticia de viajes que crea rutas y calcula la duración y precio de viaje para diferentes tipos de transporte.
 
